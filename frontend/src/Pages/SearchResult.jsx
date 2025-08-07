@@ -1,7 +1,7 @@
 import { format, parse } from 'date-fns'
 import { useSelector } from 'react-redux'
 import { Link } from 'react-router-dom'
-import { baseUrl } from '../lib/constants'
+import { baseUrl } from '../Lib/constants'
 
 export default function SearchResult(props) {
   const data = props.data
