@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import axios from 'axios';
 import SearchResult from './SearchResult';
-import { apiUrls, baseUrl } from '../lib/constants';
+import { apiUrls, baseUrl } from '../Lib/constants';
 import Swal from 'sweetalert2';
 export default function Carouselslide() {
   const [halls,sethalls]=useState([])
