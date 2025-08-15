@@ -14,7 +14,7 @@ Frontend built with **React.js**, connected to a **Spring Boot backend** and **M
 - ⚛️ React.js
 - 🎨 CSS, HTML
 - 🌐 JavaScript
-- 🔐 JWT Authentication (planned)
+- 🔐 JWT Authentication 
 - ⚙️ Axios for API calls
 
 ### **Backend**
